@@ -1,5 +1,6 @@
 # Step 9. Conflict
 import math
+import seaborn as sns
 def triangle_area(base, height):
     """Calculates the area of a triangle."""
     return 0.5 * base * height
