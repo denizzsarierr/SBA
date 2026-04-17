@@ -12,6 +12,7 @@ def test_rectangle_area():
 def test_square_area():
 
     assert square_area(6) == 36
+    assert square_area(5) == 25
 
 def test_circle_area():
 
